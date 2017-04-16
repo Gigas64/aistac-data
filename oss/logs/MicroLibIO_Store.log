@@ -1,0 +1,279 @@
+22:46:13.175 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+22:46:13.180 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:17:15.292 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:17:15.297 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:17:15.297 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:19:48.186 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:19:48.193 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:19:48.193 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:19:48.193 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:19:48.196 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.048 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.052 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.052 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.053 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.053 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:22:35.053 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:23:03.690 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:23:03.696 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:23:03.696 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:23:03.696 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:23:03.697 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.032 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.036 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.037 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.037 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.037 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:25:24.073 DEBUG DATA_QUEUE : Add  ExampleBean : Key:-2 Id:1
+23:25:24.074 DEBUG DATA_QUEUE : Add  ExampleBean : Key:-2 Id:1
+23:25:24.074 DEBUG DATA_QUEUE : Add  ExampleBean : Key:-2 Id:1
+23:27:59.228 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:27:59.232 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:27:59.233 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:27:59.233 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:27:59.233 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:27:59.271 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:27:59.271 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:27:59.272 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:31:16.246 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:31:16.252 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:31:16.252 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:31:16.253 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:31:16.253 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:31:16.289 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:31:16.290 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:31:16.290 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:33:23.606 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:33:23.606 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:33:23.606 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:33:23.606 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:33:23.606 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:33:23.647 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:33:23.647 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:33:23.647 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:33:23.647 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:33:23.647 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:46:28.098 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:46:28.103 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:46:28.103 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:46:28.103 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:46:28.104 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:46:28.140 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:46:28.140 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:46:28.141 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:46:28.141 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:46:28.142 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:46:28.142 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:47:28.888 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:47:28.893 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:47:28.893 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:47:28.894 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:47:28.894 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:47:28.933 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:47:28.933 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:47:28.934 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:47:28.934 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:47:28.935 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:47:28.935 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:47:28.938 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:47:28.938 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:47:28.956 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+23:53:02.773 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:53:02.777 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:53:02.778 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:53:02.778 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:53:02.778 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:53:02.825 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:53:02.825 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:53:02.826 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:53:02.826 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:53:02.827 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:53:02.827 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:53:02.830 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:53:02.830 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:53:02.847 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+23:53:02.849 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+23:55:46.537 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:55:46.541 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:55:46.542 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:55:46.542 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:55:46.542 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:55:46.578 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:55:46.579 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:55:46.579 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:55:46.580 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:55:46.580 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:55:46.580 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:55:46.588 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:55:46.588 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:55:46.606 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+23:55:46.608 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+23:55:46.612 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:55:46.612 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:55:46.613 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+23:55:46.615 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+23:57:52.362 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:57:52.366 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:57:52.367 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:57:52.367 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:57:52.367 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+23:57:52.407 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:57:52.408 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:57:52.408 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:57:52.408 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+23:57:52.409 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:57:52.409 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:57:52.412 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:57:52.412 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:57:52.429 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+23:57:52.431 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+23:57:52.433 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+23:57:52.433 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+23:57:52.435 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+23:57:52.436 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:00:58.951 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:00:58.956 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:00:58.956 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:00:58.957 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:00:58.957 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:00:58.999 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:00:58.999 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:00:59.000 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:00:59.000 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:00:59.001 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:00:59.001 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:00:59.004 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:00:59.004 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:00:59.022 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+00:00:59.023 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+00:00:59.025 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:00:59.026 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:00:59.027 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+00:00:59.028 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:06:44.361 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:06:44.365 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:06:44.365 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:06:44.365 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:06:44.366 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:06:44.402 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:06:44.403 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:06:44.404 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:06:44.404 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:06:44.404 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:06:44.405 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:06:44.407 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:06:44.407 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:06:44.424 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+00:06:44.426 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+00:06:44.428 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:06:44.429 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:06:44.430 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+00:06:44.431 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:18:04.772 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:18:04.777 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:18:04.777 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:18:04.778 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:18:04.778 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:18:04.825 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:18:04.826 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:18:04.827 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:18:04.827 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:18:04.827 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:18:04.827 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:18:04.831 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:18:04.831 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:18:04.851 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+00:18:04.853 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+00:18:04.855 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:18:04.855 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:18:04.856 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+00:18:04.857 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:25:38.966 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:25:38.967 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:25:38.967 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:25:38.967 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:25:38.967 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:25:39.009 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:25:39.010 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:25:39.010 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:25:39.011 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:25:39.011 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:25:39.011 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:25:39.015 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:25:39.015 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:25:39.032 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+00:25:39.034 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+00:25:39.036 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:25:39.036 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:25:39.037 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+00:25:39.038 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:25:40.040 DEBUG DATA_QUEUE : Persist queue poll: returned null
+00:25:41.043 DEBUG DATA_QUEUE : Archive queue poll: returned null
+00:27:36.338 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:27:36.342 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:27:36.342 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:27:36.343 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:27:36.343 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+00:27:36.380 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:27:36.381 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:27:36.381 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:27:36.381 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+00:27:36.382 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:27:36.382 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:27:36.385 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:27:36.386 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:27:36.403 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+00:27:36.405 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+00:27:36.407 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+00:27:36.407 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+00:27:36.408 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+00:27:36.410 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+00:27:37.523 DEBUG DATA_QUEUE : Persist queue poll: returned null
+00:27:38.524 DEBUG DATA_QUEUE : Archive queue poll: returned null
+14:46:44.022 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+14:46:44.026 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+14:46:44.026 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+14:46:44.027 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+14:46:44.027 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+14:46:44.066 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+14:46:44.066 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+14:46:44.067 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+14:46:44.067 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+14:46:44.067 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+14:46:44.068 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+14:46:44.090 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+14:46:44.090 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+14:46:44.109 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+14:46:44.111 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+14:46:44.115 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+14:46:44.115 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+14:46:44.116 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+14:46:44.118 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+14:46:45.122 DEBUG DATA_QUEUE : Persist queue poll: returned null
+14:46:46.123 DEBUG DATA_QUEUE : Archive queue poll: returned null
+09:21:59.540 FATAL        : DATA_QUEUE
+09:21:59.540 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+09:21:59.540 FATAL        : DATA_QUEUE
+09:21:59.540 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+09:21:59.540 FATAL        : DATA_QUEUE
+09:21:59.540 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+09:21:59.540 FATAL        : DATA_QUEUE
+09:21:59.540 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+09:21:59.540 FATAL        : DATA_QUEUE
+09:21:59.556 DEBUG DATA_QUEUE : No Options set for  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+09:21:59.587 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Persist and Archive queues cleared
+09:21:59.587 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+09:21:59.587 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+09:21:59.603 DEBUG DATA_QUEUE : Archive queue poll:  ExampleBean : Key:-2 Id:1
+09:21:59.603 DEBUG DATA_QUEUE : Persist queue poll:  ExampleBean : Key:-2 Id:1
+09:21:59.603 DEBUG DATA_QUEUE : Persist queue add  ExampleBean : Key:-2 Id:1
+09:21:59.603 DEBUG DATA_QUEUE : Archive queue add  ExampleBean : Key:-2 Id:1
+09:21:59.603 DEBUG DATA_QUEUE : Archive queue take:  ExampleBean : Key:-2 Id:1
+09:21:59.618 DEBUG DATA_QUEUE : Persist queue take:  ExampleBean : Key:-2 Id:1
+09:22:00.635 DEBUG DATA_QUEUE : Persist queue poll: returned null
+09:22:01.636 DEBUG DATA_QUEUE : Archive queue poll: returned null

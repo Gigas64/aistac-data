@@ -1,0 +1,18 @@
+============================================
+        Project Name = aistac-data-obcache
+============================================
+
+Release Version: 1.00.020  [2016-04-16 11:00]
+=============================================
+[RELEASE SUMMARY]
+Iteration build.
+
+[RELEASE NOTES]
+none.
+
+[TESTING SUMMARY]
+complete.
+
+[TESTING NOTES]
+none.
+_____________________________________________

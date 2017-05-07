@@ -9,7 +9,7 @@ Specification-Title: aistac-data-obcache library
 Specification-Version: 2.00
 Specification-Vendor: aistac.io oatridge.io
 Implementation-Title: aistac-data-obcache release patch
-Implementation-Version: 002
+Implementation-Version: 004
 Implementation-Vendor: aistac.io oatridge.io
 
 Name: ${manifest.section.package}

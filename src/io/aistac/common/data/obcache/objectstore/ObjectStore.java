@@ -6,16 +6,16 @@
  */
 package io.aistac.common.data.obcache.objectstore;
 
+import io.aistac.common.api.sockets.handler.connections.ConnectionBean;
+import io.aistac.common.api.sockets.transport.TransportBean;
+import io.aistac.common.api.sockets.transport.TransportQueueInterface;
+import io.aistac.common.api.sockets.valueholder.CommandBits;
 import io.aistac.common.canonical.data.AbstractMemoryBeanCache;
 import io.aistac.common.canonical.data.ObjectBean;
 import io.aistac.common.canonical.exceptions.ObjectBeanException;
 import io.aistac.common.canonical.log.LoggerQueueService;
 import io.aistac.common.canonical.properties.TaskPropertiesService;
 import static io.aistac.common.data.obcache.objectstore.DataOptionsEnum.QUEUE;
-import io.aistac.common.api.sockets.handler.connections.ConnectionBean;
-import io.aistac.common.api.sockets.transport.TransportBean;
-import io.aistac.common.api.sockets.transport.TransportQueueInterface;
-import io.aistac.common.api.sockets.valueholder.CommandBits;
 
 /**
  * The {@code ObjectStore} Class
